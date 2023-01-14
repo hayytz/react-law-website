@@ -23,7 +23,8 @@ module.exports = {
       }
     },
     screens: {
-     'xl': {'max': '1700px'},
+     'xl': '1700px',
+     //'xl': {'max': '1700px'},
     },
   },
   plugins: [],
